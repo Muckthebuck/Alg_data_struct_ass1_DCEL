@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/code.dir/main.c.o CMakeFiles/code.dir/read_input.c.o CMakeFiles/code.dir/print_to_file.c.o CMakeFiles/code.dir/dcel.c.o  -o code 

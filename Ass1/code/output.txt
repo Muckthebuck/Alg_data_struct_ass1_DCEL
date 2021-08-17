@@ -1,0 +1,59 @@
+3, 0, 142.993000, -33.122900
+0, 0, 145.295300, -33.172150
+3, 13, 145.295300, -33.172150
+0, 13, 147.192650, -36.476825
+3, 16, 147.192650, -36.476825
+0, 16, 144.883525, -38.109463
+3, 14, 144.883525, -38.109463
+0, 14, 140.536000, -38.382800
+3, 15, 140.536000, -38.382800
+0, 15, 140.335800, -37.476600
+3, 7, 140.335800, -37.476600
+0, 7, 142.993000, -33.122900
+1, 8, 149.090000, -39.781500
+1, 8, 147.192650, -36.476825
+1, 13, 147.192650, -36.476825
+1, 13, 145.295300, -33.172150
+1, 9, 145.295300, -33.172150
+1, 9, 147.597600, -33.221400
+1, 1, 147.597600, -33.221400
+1, 1, 150.054600, -36.590100
+1, 2, 150.054600, -36.590100
+1, 2, 150.400400, -39.229900
+1, 10, 150.400400, -39.229900
+1, 10, 149.090000, -39.781500
+2, 11, 144.883525, -38.109463
+2, 11, 142.574400, -39.742100
+2, 12, 142.574400, -39.742100
+2, 12, 140.736200, -39.289000
+2, 6, 140.736200, -39.289000
+2, 6, 140.536000, -38.382800
+2, 14, 140.536000, -38.382800
+2, 14, 144.883525, -38.109463
+3, 14, 144.883525, -38.109463
+3, 14, 140.536000, -38.382800
+3, 15, 140.536000, -38.382800
+3, 15, 140.335800, -37.476600
+3, 7, 140.335800, -37.476600
+3, 7, 142.993000, -33.122900
+3, 0, 142.993000, -33.122900
+3, 0, 145.295300, -33.172150
+3, 13, 145.295300, -33.172150
+3, 13, 147.192650, -36.476825
+3, 16, 147.192650, -36.476825
+3, 16, 144.883525, -38.109463
+0
+Watchtower ID: WT3106HTUYW, Postcode: 3106, Population Served: 2374, Watchtower Point of Contact Name: David Bryanx: 145.144940, y: -37.745503
+Watchtower ID: WT3151ANFQX, Postcode: 3151, Population Served: 3424, Watchtower Point of Contact Name: Daniel Davisx: 145.166321, y: -37.849087
+Watchtower ID: WT3370XRAHI, Postcode: 3370, Population Served: 356, Watchtower Point of Contact Name: Tammy Comptonx: 143.760505, y: -37.178894
+Watchtower ID: WT3525YPKBW, Postcode: 3525, Population Served: 433, Watchtower Point of Contact Name: Denise Robertsx: 143.320907, y: -36.145249
+Watchtower ID: WT3530RJWDT, Postcode: 3530, Population Served: 63, Watchtower Point of Contact Name: Troy Clarkx: 143.083467, y: -35.792994
+1
+Watchtower ID: WT3701KWYIQ, Postcode: 3701, Population Served: 269, Watchtower Point of Contact Name: Martha Moorex: 147.393030, y: -36.254894
+2
+Watchtower ID: WT3227LRSVA, Postcode: 3227, Population Served: 4819, Watchtower Point of Contact Name: Joan Coxx: 144.388373, y: -38.226648
+3
+Face 0 population served: 6650
+Face 1 population served: 269
+Face 2 population served: 4819
+Face 3 population served: 0

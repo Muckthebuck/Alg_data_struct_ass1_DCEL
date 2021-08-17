@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/mukul/Desktop/Sem-2/Alg_and_data_structs/Ass1/code/dcel.h
+
+/mnt/c/Users/mukul/Desktop/Sem-2/Alg_and_data_structs/Ass1/code/dcel_struct.h
+
+/mnt/c/Users/mukul/Desktop/Sem-2/Alg_and_data_structs/Ass1/code/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+assert.h
+-
+vect.h
+/mnt/c/Users/mukul/Desktop/Sem-2/Alg_and_data_structs/Ass1/code/vect.h
+dcel_struct.h
+/mnt/c/Users/mukul/Desktop/Sem-2/Alg_and_data_structs/Ass1/code/dcel_struct.h
+dcel.h
+/mnt/c/Users/mukul/Desktop/Sem-2/Alg_and_data_structs/Ass1/code/dcel.h
+watchtower.h
+/mnt/c/Users/mukul/Desktop/Sem-2/Alg_and_data_structs/Ass1/code/watchtower.h
+read_input.h
+/mnt/c/Users/mukul/Desktop/Sem-2/Alg_and_data_structs/Ass1/code/read_input.h
+print_to_file.h
+/mnt/c/Users/mukul/Desktop/Sem-2/Alg_and_data_structs/Ass1/code/print_to_file.h
+
+/mnt/c/Users/mukul/Desktop/Sem-2/Alg_and_data_structs/Ass1/code/print_to_file.h
+
+/mnt/c/Users/mukul/Desktop/Sem-2/Alg_and_data_structs/Ass1/code/read_input.h
+
+/mnt/c/Users/mukul/Desktop/Sem-2/Alg_and_data_structs/Ass1/code/vect.h
+
+/mnt/c/Users/mukul/Desktop/Sem-2/Alg_and_data_structs/Ass1/code/watchtower.h
+vect.h
+/mnt/c/Users/mukul/Desktop/Sem-2/Alg_and_data_structs/Ass1/code/vect.h
+
