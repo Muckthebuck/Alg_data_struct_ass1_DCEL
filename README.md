@@ -7,4 +7,3 @@ The context of the assignment task is that a set of watchtowers have been provid
 Task:
 
 In this assignment, you will create a fundamental data structure which supports the sorting of points of interest into partitions of a geometric space. These data come from properties of Victorian postcodes and a simple initial polygon. A user will be able to provide modifications to this polygon and receive information about what points land in each location.
-#dcel #voronoi
